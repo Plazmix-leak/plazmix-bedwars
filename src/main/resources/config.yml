@@ -1,0 +1,8 @@
+mode: SOLO
+map-name: Test
+map-generator-multiplier: 1.5
+spawn-protection-distance: 2
+heal-pool-distance: 15
+
+wait-lobby-spawn: 'WaitLobby, -12.5, 88, -22.5, 0, 0'
+install-radius: 200

@@ -1,0 +1,10 @@
+name: ${project.name}
+main: net.plazmix.bedwars.PlazmixBedWars
+version: ${project.version}
+description: ${project.description}
+website: ${project.url}
+
+authors: [Desinger, MasterCapeXD, Frotter]
+
+depend:
+  - PlazmixAPI
